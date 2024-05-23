@@ -290,7 +290,8 @@ body {
     flex-direction: column;
     justify-content: space-between;
     height: 300px;
-  background-color: white;
+
+    background-color: white;
 }
 .product-box img {
     max-width: 100%;
